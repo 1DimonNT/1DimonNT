@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Dmitrii!;QA+Automation+Engineer;Python+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1500&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Привет%2C+я+Дмитрий;🧪+QA+Automation+Engineer;🐍+Python+разработчик;⚡+API+%2B+UI+тестирование" />
 </h1>
 
 <h3 align="center">
@@ -15,12 +15,12 @@
 ## 🎓 Обо мне
 
 Я закончил **Уральский Государственный Педагогический Университет**  
-<img src="images/logo-uspu2021.png" width="120" alt="USPU logo" />
+<img src="https://raw.githubusercontent.com/1DimonNT/resources/main/images/uspu-logo.png" width="240" alt="USPU logo" />
 
 **Специальность:** Предприниматель-технолог
 
 Затем прошел обучение в **QA.GURU**  
-<img src="images/QA-Guru-Logo-Black-Original.svg" width="120" alt="QA.GURU logo" />
+<img src="https://raw.githubusercontent.com/1DimonNT/resources/main/images/qaguru-logo.svg" width="240" alt="QA.GURU logo" />
 
 **Курс:** [Инженер по автоматизации тестирования на Python](https://qa.guru/python)
 
