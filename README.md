@@ -15,12 +15,12 @@
 ## 🎓 Обо мне
 
 Я закончил **Уральский Государственный Педагогический Университет**  
-<img src="https://raw.githubusercontent.com/1DimonNT/assets/main/images/uspu-logo.png" width="120" />
+<img src="images/logo-uspu2021.png" width="120" alt="USPU logo" />
 
 **Специальность:** Предприниматель-технолог
 
 Затем прошел обучение в **QA.GURU**  
-<img src="https://raw.githubusercontent.com/1DimonNT/assets/main/images/qaguru-logo.svg" width="120" />
+<img src="images/QA-Guru-Logo-Black-Original.svg" width="120" alt="QA.GURU logo" />
 
 **Курс:** [Инженер по автоматизации тестирования на Python](https://qa.guru/python)
 
