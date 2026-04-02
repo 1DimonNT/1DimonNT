@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/46563125?v=4&size=128" width="128" height="128" style="border-radius: 50%;" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Dmitrii!;QA+Automation+Engineer;Python+Enthusiast" />
 </h1>
